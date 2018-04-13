@@ -1,0 +1,19 @@
+2018年4月9日	周一
+蔡睿	21：48
+
+	各位，这两周的任务主要是开始学习Unity游戏引擎的使用方式以及C#语言基础用于编写Unity的游戏脚本。关于Unity入门阶段的学习资料，经论坛网友的推荐，将排名最高的两个网站链接给出：
+（1）【擅码网：Unity与C#相关】http://www.mkcode.net/html/luxian.html
+（2）【泰课：各类教程杂糅，搜索Unity相关即可】http://www.taikr.com
+关于C#，大家请将其与Unity穿插学习，必要时参考：
+（1）【微软的C#官方手册，首选】https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/index
+（2）【菜鸟教程】http://www.runoob.com/csharp/csharp-tutorial.html
+整体来说，C#与C语言、Java非常相似
+
+另外，大家在这两周结合我发的Git/Github思维导图复习我在4月7日晚的答疑课上讲的内容，每天坚持使用Git编写日志、丢点文本（就算只有一句话也行），上传到自己fork下的learn-Git-And-Chat仓库（https://github.com/RayChromium/learnGit-And-Chat）上，并向所有者仓库（也就是我的上游仓库）提交Pull Request，作为每天的一个小小的练习。（Git/Github只是一个小小的工具，它本身无法帮助我们实现任何一条代码，但却是开源社区与协同开发的强大武器，请务必熟练掌握）
+
+公告中的Unity教程在入门阶段的部分完全是免费的，完全足够我们进行起步学习了。后期的进阶过程再转向官方论坛进行学习（部分需要翻墙，请自备梯子）
+
+
+很高兴你们看到了这个文档的内容，虽然和群里的一模一样，但至少说明你们确实有在关注此Github仓库。
+
+哦……等等……我好像犯了一个严重的错误……
